@@ -1,16 +1,6 @@
-# flutternewsapp_withapi
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-03-05 at 01 13 29](https://github.com/kaliraotaran/flutternewsapp_withapi/assets/81376236/31dbf682-69e0-44eb-8bb9-3048b741a9d3)
+![WhatsApp Image 2024-03-05 at 01 13 29 (1)](https://github.com/kaliraotaran/flutternewsapp_withapi/assets/81376236/58ca36c9-019c-489e-a9bc-fb8c83df3d04)
+![WhatsApp Image 2024-03-05 at 01 13 29 (2)](https://github.com/kaliraotaran/flutternewsapp_withapi/assets/81376236/e4bcea3f-35a5-40ac-8c79-90d8bb949cfb)
+![WhatsApp Image 2024-03-05 at 01 13 30](https://github.com/kaliraotaran/flutternewsapp_withapi/assets/81376236/ac482070-1f4b-4343-99ae-68e763f50a54)
